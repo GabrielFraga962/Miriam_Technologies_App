@@ -12,7 +12,7 @@
 ## The project 🖼️
 
 <p align="center">
-  <img src="/Miriam_Technologies_App/tree/main/Miriam/assets/img/miriam_template.png" alt="Banner do projeto"/>
+  <img src="https://imgur.com/EKiZItR.png" alt="Banner do projeto"/>
 </p>
 
 ---
