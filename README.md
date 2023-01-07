@@ -22,4 +22,4 @@
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](https://github.com/GabrielFraga962/Minimalist_Clock_UI/blob/main/LICENSE)**;
-- Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
+- Copyright 2023 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
