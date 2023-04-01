@@ -24,3 +24,4 @@
 
 - **[Mozilla Public License 2.0](https://github.com/GabrielFraga962/Miriam_Technologies_App/blob/main/LICENSE)**;
 - Copyright 2023 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
+
