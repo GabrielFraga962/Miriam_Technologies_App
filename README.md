@@ -9,7 +9,6 @@
 
 ---
 
-
 ## The project 🖼️
 
 <p align="center">
